@@ -1,1 +1,1 @@
-# VrishaCSE-C
+# CSE-C-DS
